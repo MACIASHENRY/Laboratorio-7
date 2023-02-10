@@ -113,15 +113,19 @@ Para la multiplicación se debe realizar la propiedad distributiva en cada uno d
 
 Para la división es preferible transformar a forma polar y seguido dividir la magnitud del numerador entre la magnitud del denominador para obtener la magnitud del cocient, restar a continuación el ángulo del denominador del numerador para obtener el ángulo del cociente.
 
-5.- Conclusiones
+5.-PREGUNTAS
+
+[![Z20.png](https://i.postimg.cc/sgLQy8jP/Z20.png)](https://postimg.cc/bZQN9m2d)
+
+6.- Conclusiones
 
 En conclusión, para la facilidad de distinguir entre polar y rectangular se da una escritura diferente para cada segmento, nos referimos con ángulos para los datos y valores rectangulares y con la variable de números complejos para los datos y valores de polares.
 
 Al implementar la calculadora online, observamos que los valores tanto calculados por el sistema y por nosotros no arrojaban un error más allá de 0.10%. Pero deducimos que por la calculadora online podíamos obtener los valores directamente.
 
-6.- Bibliografía
+7.- Bibliografía
 
 Floyd, T.L. (2007). Principios de circuitos eléctricos (Octava ed.)
 
-7.- Video link
+8.- Video link
 https://youtu.be/MzZXFpcdnoo
