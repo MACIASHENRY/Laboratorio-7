@@ -1,10 +1,15 @@
 LABORATORIO 7
+
 CARRION SAID
+
 MACIAS HENRY
+
 PILAGUANO
+
 1.- Objetivo General
 
 Analizar los números complejos y solucionar las transformaciones tanto de forma polar y de forma rectangular.
+
 1.1.- Objetivos Específicos
 
 Identificar si el ejercicio esta en forma polar o rectangular y realizar los calculos respectivos.
@@ -20,8 +25,11 @@ Implementar la calculadora para resolver los ejercicios de una manera mas rápid
 3.1. OBJETIVO DE LA PRÁCTICA
 
 Verificar el comportamiento de la bobina y el capacitor en circuitos DC..
+
 Verificar las combinaciones serie y paralelo de bobinas y capacitores.
+
 Familiarizarse con el uso de instrumentos de medida.
+
 3.2. MATERIALES
 
 Laboratorio virtual ACDCLab
