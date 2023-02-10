@@ -22,6 +22,7 @@ Implementar la calculadora para resolver los ejercicios de una manera mas rápid
 
 [![z1.png](https://i.postimg.cc/wTwGjTYK/z1.png)](https://postimg.cc/hf7rCnGM)
 
+
 3.1. OBJETIVO DE LA PRÁCTICA
 
 Verificar el comportamiento de la bobina y el capacitor en circuitos DC..
